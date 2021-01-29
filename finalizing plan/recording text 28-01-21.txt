@@ -1,0 +1,17 @@
+platform based on open-source
+globally acclaimed methods owasp and ptes
+tell controls of owasp & ptes
+tell controls are required in these compliances
+
+Explain how this platform will be built:
+-owasp platform on kali and than snort and multiple tools will be build
+-after building combination their sequence will be performed for different tasks as if these 10 things needed then there are these tools and so on &&&& also mention that this platofrm is not limited to these tools and we can add more tools in it
+-reporting analysis and how will they be displayed and process how they will be executed on different infrastructures
+-tools-platform-working (3to4-steps)
+
+introduction
+
+CONCEPT:
+approach -> what are you doing & what is the mechanism (guidelines also mention pre-engagement) & methods & controls & compliances & tools (under compliances) &  platform k sath integrate krna --->>> FLOWCHART ALSO
+concept k andr approach batani hay towards objective
+
